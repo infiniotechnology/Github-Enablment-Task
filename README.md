@@ -1,6 +1,5 @@
 # General Enablement| Git & Github
 
-ഈ assignment ഇന്റെ നീട്ടം നോക്കണ്ട 😂  All is well. നമുക്ക് പതിയെ ചോദിച്ചു ചോദിച്ചു ചെയ്യാം.
 
 ### Let’s version control it!
 
@@ -44,7 +43,7 @@ So, GitHub is a service something like Google drive. To save our files or to mak
 
 So the question is how would GitHub know it is you, the right user trying to push files to a particular GitHub account from a local machine using git?
 
-**Using SSH Keys(Linux/Mac) (താക്കോൽ എവിടെ?** 🤔 **)**
+**Using SSH Keys(Linux/Mac)**
 GitHub has the feature to use SSH keys to establish a secure, authenticated way of data transfer. It would basically ensure you are the right user. So let’s setup SSH keys for your GitHub account. 
 
 This wasn’t covered in the session, but it’s fairly easy to do. Follow the steps below.
